@@ -1,0 +1,19 @@
+Databases:
+Azure Cosmos DB: Fully managed NoSQL, relational, and vector database. It offers single-digit millisecond
+response times, automatic and instant scalability, along with guaranteed speed at anay scale.
+
+Azure Database for PostgresSQL flexible servers: Azure Database for PostgresSQL -Flexible server is a 
+relational database service based on the open-source Postgres database engine. It's fully managed
+database-as-a-service that can handle mission-critical workloads with predictable perforamnce, security,
+high availability, and dynamic scalability.
+
+Azure-SQL Database Hyperscale: Azure SQL Database is based on SQL Server Databse Engine architecture that is
+adjusted for the cloud environment to ensure high availability even in infrastucture failures. There are three
+service tier choices in the vCore purchasing model for Azure AQL Database.
+General purpose, Business Critical, Hyperscale.
+
+Azure Cosmos DB for MongoDB(vCore): Azure Cosmos DB is a fully managed NoSQL, relational, and vector
+database for modern app developement. It offers single-millisecond response times, automatic and Instant
+scalability, and guaranteed speed at any scale. It is the databse that ChatGPT relies on to dynamically
+scale with high reliabilty and low maintenance.
+
